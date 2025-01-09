@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Nimbargi</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth4445&label=Profile%20views&color=0e75b6&style=flat" alt="samarth4445" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samarth4445" alt="samarth4445" /></a> </p>
-
 - 🌱 I’m currently learning **Java Spring Boot and Spring Framework**
 
 - 💬 Ask me about **Python, Django, Java**
